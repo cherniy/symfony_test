@@ -1,0 +1,8 @@
+main:
+    resource: "@MainBundle/Controller/"
+    type:     annotation
+
+form:
+    resource: "@FormBundle/Controller/"
+    type:     annotation
+    prefix:   /forms
