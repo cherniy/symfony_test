@@ -1,2 +1,5 @@
-vendor
-.idea
+/vendor
+/.idea
+/app/cache
+/app/config/parameters.yml
+/app/logs
