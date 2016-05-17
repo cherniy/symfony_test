@@ -3,3 +3,5 @@
 /app/cache
 /app/config/parameters.yml
 /app/logs
+/bower_components
+/node_modules
